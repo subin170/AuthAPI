@@ -1,0 +1,4 @@
+node_modules/
+/workspaces/AuthAPI/node_modules/
+uploads/
+.env
